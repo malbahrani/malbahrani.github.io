@@ -1,0 +1,4 @@
+Sitemap: https://ma_site.com/sitemapindex.xml
+
+User-Agent: *
+Host: ma_site.com
